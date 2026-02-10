@@ -12,9 +12,12 @@ brew tap flarebyte/tap
 
 ## Formulae
 
-Install clingy code detective (alias clingy):
+- Clingy Code Detective (binary: `clingy`)
+  - `brew install clingy-code-detective`
 
-`brew install clingy-code-detective`
+- Baldrick Rebec (binary: `rbc`)
+  - `brew install baldrick-rebec`
+  - Run: `rbc --help`
 
 ## Links
 
