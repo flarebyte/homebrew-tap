@@ -19,6 +19,10 @@ brew tap flarebyte/tap
   - `brew install baldrick-rebec`
   - Run: `rbc --help`
 
+- Thoth Ostraca (binary: `thoth`)
+  - `brew install thoth-ostraca`
+  - Run: `thoth --help`
+
 ## Links
 
 - [Brew Package manager for macOS](https://brew.sh)
