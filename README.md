@@ -13,18 +13,18 @@ brew tap flarebyte/tap
 ## Formulae
 
 - Baldrick Flying Buttress (binary: `flyb`)
-  - `brew install baldrick-flying-buttress`
+  - `brew install flarebyte/tap/baldrick-flying-buttress`
   - Run: `flyb --help`
 
 - Clingy Code Detective (binary: `clingy`)
-  - `brew install clingy-code-detective`
+  - `brew install flarebyte/tap/clingy-code-detective`
 
 - Baldrick Rebec (binary: `rbc`)
-  - `brew install baldrick-rebec`
+  - `brew install flarebyte/tap/baldrick-rebec`
   - Run: `rbc --help`
 
 - Thoth Ostraca (binary: `thoth`)
-  - `brew install thoth-ostraca`
+  - `brew install flarebyte/tap/thoth-ostraca`
   - Run: `thoth --help`
 
 ## Links
