@@ -23,6 +23,10 @@ brew tap flarebyte/tap
   - `brew install flarebyte/tap/baldrick-rebec`
   - Run: `rbc --help`
 
+- Baldrick Seer (binary: `seer`)
+  - `brew install flarebyte/tap/baldrick-seer`
+  - Run: `seer --help`
+
 - Thoth Ostraca (binary: `thoth`)
   - `brew install flarebyte/tap/thoth-ostraca`
   - Run: `thoth --help`
