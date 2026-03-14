@@ -10,6 +10,18 @@ You can add the tap which makes formulae within it available in search results (
 brew tap flarebyte/tap
 ```
 
+Install a CLI from this tap:
+
+```sh
+brew install flarebyte/tap/baldrick-flying-buttress
+```
+
+Upgrade an installed CLI to the latest version available in this tap:
+
+```sh
+brew upgrade flarebyte/tap/baldrick-flying-buttress
+```
+
 ## Formulae
 
 - Baldrick Flying Buttress (binary: `flyb`)
