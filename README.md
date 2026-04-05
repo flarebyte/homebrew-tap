@@ -28,6 +28,10 @@ brew upgrade flarebyte/tap/baldrick-flying-buttress
   - `brew install flarebyte/tap/baldrick-flying-buttress`
   - Run: `flyb --help`
 
+- Chatty Ratatoskr (binary: `chatty`)
+  - `brew install flarebyte/tap/chatty-ratatoskr`
+  - Run: `chatty --help`
+
 - Clingy Code Detective (binary: `clingy`)
   - `brew install flarebyte/tap/clingy-code-detective`
 
