@@ -35,6 +35,10 @@ brew upgrade flarebyte/tap/baldrick-flying-buttress
 - Clingy Code Detective (binary: `clingy`)
   - `brew install flarebyte/tap/clingy-code-detective`
 
+- Ash Splash Norn (binary: `splash`)
+  - `brew install flarebyte/tap/ash-splash-norn`
+  - Run: `splash --help`
+
 - Baldrick Rebec (binary: `rbc`)
   - `brew install flarebyte/tap/baldrick-rebec`
   - Run: `rbc --help`
