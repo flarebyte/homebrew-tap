@@ -51,6 +51,10 @@ brew upgrade flarebyte/tap/baldrick-flying-buttress
   - `brew install flarebyte/tap/thoth-ostraca`
   - Run: `thoth --help`
 
+- Quick Quack Quest (binary: `quack`)
+  - `brew install flarebyte/tap/quick-quack-quest`
+  - Run: `quack --help`
+
 ## Links
 
 - [Brew Package manager for macOS](https://brew.sh)
